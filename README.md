@@ -89,7 +89,8 @@ for result in search_results:
     i=i+1
 ```
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/Sarvesh993/WDM_EXP6/assets/94881923/cf8810ff-7d82-45d4-b08f-03beef45ee52)
+
 
 
 ## Result:
