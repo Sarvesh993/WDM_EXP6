@@ -18,8 +18,6 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 ## Program:
 
 ```python
-#developed by : Kaushika A
-#register number : 21221230048
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
